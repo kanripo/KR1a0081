@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 學易記
-#+DATE: 2015-09-23 09:34:57
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:56:53.071769
+#+PROPERTY: ID KR1a0081
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0081_WYG_002-1a>¶
 欽定四庫全書¶
 　學易記卷二　　　　　　元　李簡　撰¶
@@ -1208,4 +1210,3 @@
 　¶
 　¶
 　學易記卷二¶
-
